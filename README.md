@@ -1,7 +1,15 @@
-# 10 Animals Classification
+#  Animals Classification
 
-This project implements a deep learning model for classifying 10 different animals using a Jupyter notebook. The implementation is done in Google Colab for easy access to GPU resources and cloud computing capabilities.
+##  Introduction  
+The Animal Classifier is a smart image-based application designed to recognize and classify different animal species using artificial intelligence and image processing techniques. It is ideal for educational projects, AI learners, and anyone interested in computer vision applications.
 
+## Project Objectives  
+- Develop a functional animal classification system using AI.  
+- Implement image processing to enhance image quality and accuracy.  
+- Create an intuitive interface for users to interact with the model.  
+- Demonstrate how machine learning can be applied in real-world visual recognition.  
+- Provide a base project that can be expanded with more classes or advanced features.
+  
 ## Project Structure
 - `10_Animals_Classification` : Dataset https://www.kaggle.com/datasets/alessiocorrado99/animals10
 - `10_Animals_Classification.ipynb`: Main Jupyter notebook containing the implementation
@@ -28,6 +36,7 @@ The notebook includes all necessary package installations. The main dependencies
 2. Open the notebook in Google Colab
 3. Follow the instructions in the notebook to run the model
 
-## Note
+##  Summary  
+The Animal Classifier project showcases how artificial intelligence can be used to solve real-world image recognition tasks. With its clean user interface and built-in image editing tool, it is ideal for students, hobbyists, and developers looking to explore AI and computer vision.
 
-This project is designed to run in Google Colab environment. Make sure you have a Google account and access to Google Colab to run the notebook. 
+
