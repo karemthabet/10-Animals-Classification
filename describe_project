@@ -1,0 +1,24 @@
+# 🐾 10 Animals Image Classification using CNN
+
+This project presents a Convolutional Neural Network (CNN)-based image classification system designed to accurately identify and classify images into one of 10 animal categories. It demonstrates a complete deep learning pipeline from data preprocessing, model design, training, evaluation, and inference.
+
+## 🧠 Project Objectives
+- Build a robust image classification model using CNN.
+- Train the model on a dataset of 10 different animal species.
+- Evaluate model performance using accuracy and loss curves.
+- Visualize predictions and interpret model outputs.
+
+## 📁 Dataset
+The dataset contains images of 10 animal classes. It is structured in training and validation sets and includes various animal categories (e.g., cat, dog, horse, elephant, etc.).
+
+## 🔧 Technologies Used
+- Python
+- TensorFlow / Keras
+- OpenCV / PIL
+- NumPy, Matplotlib
+
+## 🚀 How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/ziadlasheen1/AnimalClassification.git
+cd AnimalClassification
