@@ -1,8 +1,9 @@
-# 🐾 Animals Classification
+#  Animals Classification
 
-## 📖 Introduction  
+##  Introduction  
 The Animal Classifier is a smart image-based application designed to recognize and classify different animal species using artificial intelligence and image processing techniques. It is ideal for educational projects, AI learners, and anyone interested in computer vision applications.
-## 🎯 Project Objectives  
+
+## Project Objectives  
 - Develop a functional animal classification system using AI.  
 - Implement image processing to enhance image quality and accuracy.  
 - Create an intuitive interface for users to interact with the model.  
@@ -35,6 +36,7 @@ The notebook includes all necessary package installations. The main dependencies
 2. Open the notebook in Google Colab
 3. Follow the instructions in the notebook to run the model
 
-## Note
+##  Summary  
+The Animal Classifier project showcases how artificial intelligence can be used to solve real-world image recognition tasks. With its clean user interface and built-in image editing tool, it is ideal for students, hobbyists, and developers looking to explore AI and computer vision.
 
-This project is designed to run in Google Colab environment. Make sure you have a Google account and access to Google Colab to run the notebook. 
+
