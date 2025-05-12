@@ -3,7 +3,7 @@
 This project implements a deep learning model for classifying 10 different animals using a Jupyter notebook. The implementation is done in Google Colab for easy access to GPU resources and cloud computing capabilities.
 
 ## Project Structure
-
+- `10_Animals_Classification` : Dataset https://www.kaggle.com/datasets/alessiocorrado99/animals10
 - `10_Animals_Classification.ipynb`: Main Jupyter notebook containing the implementation
 - `.gitignore`: Specifies files to be ignored by Git
 - `README.md`: Project documentation
